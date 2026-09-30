@@ -1,0 +1,57 @@
+
+UNIVERSITY FEES AND FINANCIAL INFORMATION
+
+Undergraduate Tuition Fees
+
+Tuition fees vary by academic program and semester. Students should check the latest official fee schedule for their specific program and intake.
+
+BS Computer Science
+
+The estimated tuition fee for BS Computer Science is PKR 50,000 per semester.
+
+BS Software Engineering
+
+The estimated tuition fee for BS Software Engineering is PKR 50,000 per semester.
+
+BS Data Science
+
+The estimated tuition fee for BS Data Science is PKR 55,000 per semester.
+
+BS Artificial Intelligence
+
+The estimated tuition fee for BS Artificial Intelligence is PKR 55,000 per semester.
+
+BS Information Technology
+
+The estimated tuition fee for BS Information Technology is PKR 48,000 per semester.
+
+Additional Charges
+
+Students may have additional charges such as:
+
+- Admission processing fee
+- Examination fee
+- Library fee
+- Laboratory fee
+- Student activity fee
+- Registration or enrollment charges
+
+Payment
+
+Students must pay their applicable fees according to the university's announced payment schedule.
+
+Fee Deadline
+
+The fee payment deadline is communicated to students for each semester. Students should complete payment before the stated deadline to avoid late charges or enrollment issues.
+
+Scholarships and Financial Assistance
+
+Eligible students may apply for scholarships or financial assistance according to the university's scholarship policies.
+
+Refund Policy
+
+Fee refunds, where applicable, are subject to the university's refund policy and the relevant deadlines.
+
+Important Notice
+
+The amounts listed in this document are sample data created for the University AI Assistant project. Actual university fees may change by academic year, program, semester, or admission intake.

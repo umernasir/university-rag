@@ -1,0 +1,87 @@
+
+UNIVERSITY ACADEMIC PROGRAMS
+
+The university offers undergraduate programs in Computer Science, Software Engineering, Data Science, Artificial Intelligence, and Information Technology.
+
+BS Computer Science
+
+The BS Computer Science program focuses on programming, data structures, algorithms, databases, operating systems, computer networks, software engineering, and artificial intelligence.
+
+Core areas include:
+
+- Programming Fundamentals
+- Object-Oriented Programming
+- Data Structures and Algorithms
+- Database Systems
+- Operating Systems
+- Computer Networks
+- Software Engineering
+- Artificial Intelligence
+- Machine Learning
+
+BS Software Engineering
+
+The BS Software Engineering program focuses on designing, developing, testing, and maintaining software systems.
+
+Core areas include:
+
+- Programming
+- Software Requirements Engineering
+- Software Design
+- Software Architecture
+- Software Testing
+- Database Systems
+- Web Engineering
+- Project Management
+
+BS Data Science
+
+The BS Data Science program focuses on collecting, processing, analyzing, and interpreting data.
+
+Core areas include:
+
+- Programming for Data Science
+- Statistics
+- Probability
+- Data Analysis
+- Database Systems
+- Data Visualization
+- Machine Learning
+- Data Mining
+
+BS Artificial Intelligence
+
+The BS Artificial Intelligence program focuses on intelligent systems and computational methods used to solve complex problems.
+
+Core areas include:
+
+- Programming
+- Mathematics for AI
+- Data Structures
+- Machine Learning
+- Deep Learning
+- Natural Language Processing
+- Computer Vision
+- Reinforcement Learning
+
+BS Information Technology
+
+The BS Information Technology program focuses on the practical application and management of computing technologies.
+
+Core areas include:
+
+- Programming
+- Database Management
+- Web Technologies
+- Networking
+- Information Security
+- Cloud Computing
+- Systems Administration
+
+Program Selection
+
+Students should review the curriculum, eligibility requirements, career objectives, and admission requirements before selecting an undergraduate program.
+
+Course Availability
+
+Specific courses, course sequences, and program curricula may change according to the university's academic policies and curriculum updates.
